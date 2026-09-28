@@ -1,0 +1,43 @@
+metric,display_name,role,common_n,mean_f1_common
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",ALG primary,136,0.7420844808220863
+energy_similarity,Energy distance,Literature baseline,136,0.7376380623918188
+local_scaling_affinity,Local-scaling affinity,Literature baseline,136,0.7375875573331484
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),ALG primary,136,0.7359120544943619
+mmd_rbf_similarity,MMD-RBF,Literature baseline,136,0.733024891915322
+modified_hausdorff_similarity,Modified Hausdorff,Literature baseline,136,0.7324465021536295
+emd_wasserstein_similarity,Earth Mover/Wasserstein,Literature baseline,136,0.7320844951127687
+sliced_wasserstein_similarity,Sliced Wasserstein,Literature baseline,136,0.7311811832241375
+sinkhorn_divergence_similarity,Sinkhorn divergence,Literature baseline,136,0.7301146038809919
+chamfer_similarity,Chamfer,Literature baseline,136,0.7292554903341278
+neg_euclidean_pooled,Pooled Euclidean,Standard pooled baseline,136,0.7271698494147786
+coverage_sym_k5,"Coverage (sym., k=5)",Literature baseline,136,0.7265301207699102
+prdc_density_sym,PRDC density (sym.),Literature baseline,136,0.7255734612224666
+kid_polynomial_similarity,KID (polynomial),Literature baseline,136,0.7222389780133894
+prd_f1_max,PRD F1-max,Literature baseline,136,0.7213005651344072
+cosine_pooled,Pooled cosine,Standard pooled baseline,136,0.7212349577723195
+manifold_pr_f1,Manifold precision-recall F1,Literature baseline,136,0.7207954884448351
+prdc_f1,PRDC F1,Literature baseline,136,0.7207954884448351
+gaussian_frechet_similarity,Gaussian Fréchet,Literature baseline,136,0.7201186931662553
+prdc_coverage,PRDC coverage,Literature baseline,136,0.7179034697994249
+clipped_coverage,Clipped coverage,Literature baseline,136,0.717471265185301
+prc_f1,Precision-Recall Cover F1,Literature baseline,136,0.7173992200439907
+beta_recall_similarity,Beta recall,Literature baseline,136,0.7162234482648627
+best_buddies_similarity,Best Buddies,Literature baseline,136,0.7158277081925036
+c2st_similarity,C2ST,Literature baseline,136,0.7143808956093092
+hausdorff95_similarity,Hausdorff-95,Literature baseline,136,0.7125805980530784
+alpha_precision_similarity,Alpha precision,Literature baseline,136,0.7109765182667083
+prc_precision_cover,PRC precision-cover,Literature baseline,136,0.7079052863183056
+prc_recall_cover,PRC recall-cover,Literature baseline,136,0.7077081338878951
+clipped_density,Clipped density,Literature baseline,136,0.7070626498520063
+prdc_density,PRDC density,Literature baseline,136,0.7065536017928291
+dcd_similarity,Density-aware Chamfer (DCD),Literature baseline,136,0.7050629706298392
+hausdorff_similarity,Hausdorff,Literature baseline,136,0.7048743252685572
+improved_recall,Improved recall,Literature baseline,136,0.7018977419574899
+prdc_recall,PRDC recall,Literature baseline,136,0.7018977419574899
+improved_precision,Improved precision,Literature baseline,136,0.6999032031294777
+prdc_precision,PRDC precision,Literature baseline,136,0.6999032031294777
+gromov_wasserstein_similarity,Gromov-Wasserstein,Literature baseline,136,0.685047911780719
+point_fscore_global,Point-cloud F-score,Literature baseline,136,0.68020231551156
+persistence_bottleneck_similarity,Persistence bottleneck,Literature baseline,136,0.6774001087494503
+geometry_score_similarity,Geometry score,Literature baseline,136,0.6670110472913229
+authenticity_similarity,Authenticity,Literature baseline,136,0.6629501566347117

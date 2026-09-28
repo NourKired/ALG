@@ -1,0 +1,5 @@
+dataset,model,protocol,scenario,severity,seed,embedding,real_features,synthetic_features
+CIFAR10,real_split_B,public_controlled,iid_reference,0.0,42,standardized_pixels,../data_external/alg_public_features/CIFAR10/real_split_A.npy,../data_external/alg_public_features/CIFAR10/real_split_B.npy
+CIFAR10,mode_drop_50,public_controlled,support_mode_drop,0.5,42,standardized_pixels,../data_external/alg_public_features/CIFAR10/real_split_A.npy,../data_external/alg_public_features/CIFAR10/mode_drop_50.npy
+MNIST,real_split_B,public_controlled,iid_reference,0.0,43,standardized_pixels,../data_external/alg_public_features/MNIST/real_split_A.npy,../data_external/alg_public_features/MNIST/real_split_B.npy
+MNIST,mode_drop_50,public_controlled,support_mode_drop,0.5,43,standardized_pixels,../data_external/alg_public_features/MNIST/real_split_A.npy,../data_external/alg_public_features/MNIST/mode_drop_50.npy

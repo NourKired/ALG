@@ -1,0 +1,211 @@
+metric,display_name,scenario,scenario_label,oriented_spearman,n_levels
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",uniform_translation,Translation,0.9642857142857145,7
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",nested_support,Nested support,0.9999999999999999,5
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",nonconvex_disk,Non-convex disk,1.0,4
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",nonconvex_ring,Non-convex ring,1.0,4
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),uniform_translation,Translation,1.0,7
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),nested_support,Nested support,-0.49999999999999994,5
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),nonconvex_disk,Non-convex disk,0.19999999999999998,4
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),nonconvex_ring,Non-convex ring,0.39999999999999997,4
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),nonconvex_checkerboard,Checkerboard,1.0,4
+cosine_pooled,Pooled cosine,uniform_translation,Translation,-0.9285714285714288,7
+cosine_pooled,Pooled cosine,nested_support,Nested support,-0.49999999999999994,5
+cosine_pooled,Pooled cosine,nonconvex_disk,Non-convex disk,0.19999999999999998,4
+cosine_pooled,Pooled cosine,nonconvex_ring,Non-convex ring,-0.39999999999999997,4
+cosine_pooled,Pooled cosine,nonconvex_checkerboard,Checkerboard,1.0,4
+neg_euclidean_pooled,Pooled Euclidean,uniform_translation,Translation,1.0,7
+neg_euclidean_pooled,Pooled Euclidean,nested_support,Nested support,-0.8999999999999998,5
+neg_euclidean_pooled,Pooled Euclidean,nonconvex_disk,Non-convex disk,1.0,4
+neg_euclidean_pooled,Pooled Euclidean,nonconvex_ring,Non-convex ring,1.0,4
+neg_euclidean_pooled,Pooled Euclidean,nonconvex_checkerboard,Checkerboard,1.0,4
+alpha_precision_similarity,Alpha precision,uniform_translation,Translation,0.9910312089651149,7
+alpha_precision_similarity,Alpha precision,nested_support,Nested support,0.9999999999999999,5
+alpha_precision_similarity,Alpha precision,nonconvex_disk,Non-convex disk,1.0,4
+alpha_precision_similarity,Alpha precision,nonconvex_ring,Non-convex ring,1.0,4
+alpha_precision_similarity,Alpha precision,nonconvex_checkerboard,Checkerboard,1.0,4
+authenticity_similarity,Authenticity,uniform_translation,Translation,-0.9910312089651149,7
+authenticity_similarity,Authenticity,nested_support,Nested support,-0.8999999999999998,5
+authenticity_similarity,Authenticity,nonconvex_disk,Non-convex disk,-1.0,4
+authenticity_similarity,Authenticity,nonconvex_ring,Non-convex ring,-1.0,4
+authenticity_similarity,Authenticity,nonconvex_checkerboard,Checkerboard,-0.7999999999999999,4
+best_buddies_similarity,Best Buddies,uniform_translation,Translation,1.0,7
+best_buddies_similarity,Best Buddies,nested_support,Nested support,0.9999999999999999,5
+best_buddies_similarity,Best Buddies,nonconvex_disk,Non-convex disk,1.0,4
+best_buddies_similarity,Best Buddies,nonconvex_ring,Non-convex ring,1.0,4
+best_buddies_similarity,Best Buddies,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+beta_recall_similarity,Beta recall,uniform_translation,Translation,0.9910312089651149,7
+beta_recall_similarity,Beta recall,nested_support,Nested support,0.49999999999999994,5
+beta_recall_similarity,Beta recall,nonconvex_disk,Non-convex disk,1.0,4
+beta_recall_similarity,Beta recall,nonconvex_ring,Non-convex ring,1.0,4
+beta_recall_similarity,Beta recall,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+c2st_similarity,C2ST,uniform_translation,Translation,0.9910312089651149,7
+c2st_similarity,C2ST,nested_support,Nested support,0.6,5
+c2st_similarity,C2ST,nonconvex_disk,Non-convex disk,1.0,4
+c2st_similarity,C2ST,nonconvex_ring,Non-convex ring,1.0,4
+c2st_similarity,C2ST,nonconvex_checkerboard,Checkerboard,1.0,4
+chamfer_similarity,Chamfer,uniform_translation,Translation,1.0,7
+chamfer_similarity,Chamfer,nested_support,Nested support,0.49999999999999994,5
+chamfer_similarity,Chamfer,nonconvex_disk,Non-convex disk,1.0,4
+chamfer_similarity,Chamfer,nonconvex_ring,Non-convex ring,1.0,4
+chamfer_similarity,Chamfer,nonconvex_checkerboard,Checkerboard,1.0,4
+clipped_coverage,Clipped coverage,uniform_translation,Translation,0.9910312089651149,7
+clipped_coverage,Clipped coverage,nested_support,Nested support,0.7,5
+clipped_coverage,Clipped coverage,nonconvex_disk,Non-convex disk,1.0,4
+clipped_coverage,Clipped coverage,nonconvex_ring,Non-convex ring,1.0,4
+clipped_coverage,Clipped coverage,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+clipped_density,Clipped density,uniform_translation,Translation,0.9910312089651149,7
+clipped_density,Clipped density,nested_support,Nested support,-0.09999999999999999,5
+clipped_density,Clipped density,nonconvex_disk,Non-convex disk,1.0,4
+clipped_density,Clipped density,nonconvex_ring,Non-convex ring,1.0,4
+clipped_density,Clipped density,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+coverage_sym_k5,"Coverage (sym., k=5)",uniform_translation,Translation,0.9910312089651149,7
+coverage_sym_k5,"Coverage (sym., k=5)",nested_support,Nested support,0.9999999999999999,5
+coverage_sym_k5,"Coverage (sym., k=5)",nonconvex_disk,Non-convex disk,1.0,4
+coverage_sym_k5,"Coverage (sym., k=5)",nonconvex_ring,Non-convex ring,1.0,4
+coverage_sym_k5,"Coverage (sym., k=5)",nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+dcd_similarity,Density-aware Chamfer (DCD),uniform_translation,Translation,1.0,7
+dcd_similarity,Density-aware Chamfer (DCD),nested_support,Nested support,0.8999999999999998,5
+dcd_similarity,Density-aware Chamfer (DCD),nonconvex_disk,Non-convex disk,1.0,4
+dcd_similarity,Density-aware Chamfer (DCD),nonconvex_ring,Non-convex ring,1.0,4
+dcd_similarity,Density-aware Chamfer (DCD),nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+emd_wasserstein_similarity,Earth Mover/Wasserstein,uniform_translation,Translation,1.0,7
+emd_wasserstein_similarity,Earth Mover/Wasserstein,nested_support,Nested support,0.8999999999999998,5
+emd_wasserstein_similarity,Earth Mover/Wasserstein,nonconvex_disk,Non-convex disk,1.0,4
+emd_wasserstein_similarity,Earth Mover/Wasserstein,nonconvex_ring,Non-convex ring,1.0,4
+emd_wasserstein_similarity,Earth Mover/Wasserstein,nonconvex_checkerboard,Checkerboard,1.0,4
+energy_similarity,Energy distance,uniform_translation,Translation,1.0,7
+energy_similarity,Energy distance,nested_support,Nested support,0.9999999999999999,5
+energy_similarity,Energy distance,nonconvex_disk,Non-convex disk,1.0,4
+energy_similarity,Energy distance,nonconvex_ring,Non-convex ring,1.0,4
+energy_similarity,Energy distance,nonconvex_checkerboard,Checkerboard,1.0,4
+gaussian_frechet_similarity,Gaussian Fréchet,uniform_translation,Translation,1.0,7
+gaussian_frechet_similarity,Gaussian Fréchet,nested_support,Nested support,0.8999999999999998,5
+gaussian_frechet_similarity,Gaussian Fréchet,nonconvex_disk,Non-convex disk,1.0,4
+gaussian_frechet_similarity,Gaussian Fréchet,nonconvex_ring,Non-convex ring,1.0,4
+gaussian_frechet_similarity,Gaussian Fréchet,nonconvex_checkerboard,Checkerboard,1.0,4
+geometry_score_similarity,Geometry score,uniform_translation,Translation,-0.1785714285714286,7
+geometry_score_similarity,Geometry score,nested_support,Nested support,0.09999999999999999,5
+geometry_score_similarity,Geometry score,nonconvex_disk,Non-convex disk,-0.19999999999999998,4
+geometry_score_similarity,Geometry score,nonconvex_ring,Non-convex ring,-0.39999999999999997,4
+geometry_score_similarity,Geometry score,nonconvex_checkerboard,Checkerboard,-0.0,4
+gromov_wasserstein_similarity,Gromov-Wasserstein,uniform_translation,Translation,-0.1785714285714286,7
+gromov_wasserstein_similarity,Gromov-Wasserstein,nested_support,Nested support,0.8999999999999998,5
+gromov_wasserstein_similarity,Gromov-Wasserstein,nonconvex_disk,Non-convex disk,-0.0,4
+gromov_wasserstein_similarity,Gromov-Wasserstein,nonconvex_ring,Non-convex ring,0.19999999999999998,4
+gromov_wasserstein_similarity,Gromov-Wasserstein,nonconvex_checkerboard,Checkerboard,0.19999999999999998,4
+hausdorff95_similarity,Hausdorff-95,uniform_translation,Translation,1.0,7
+hausdorff95_similarity,Hausdorff-95,nested_support,Nested support,0.8999999999999998,5
+hausdorff95_similarity,Hausdorff-95,nonconvex_disk,Non-convex disk,1.0,4
+hausdorff95_similarity,Hausdorff-95,nonconvex_ring,Non-convex ring,1.0,4
+hausdorff95_similarity,Hausdorff-95,nonconvex_checkerboard,Checkerboard,1.0,4
+hausdorff_similarity,Hausdorff,uniform_translation,Translation,1.0,7
+hausdorff_similarity,Hausdorff,nested_support,Nested support,0.8999999999999998,5
+hausdorff_similarity,Hausdorff,nonconvex_disk,Non-convex disk,1.0,4
+hausdorff_similarity,Hausdorff,nonconvex_ring,Non-convex ring,1.0,4
+hausdorff_similarity,Hausdorff,nonconvex_checkerboard,Checkerboard,1.0,4
+improved_precision,Improved precision,uniform_translation,Translation,0.9910312089651149,7
+improved_precision,Improved precision,nested_support,Nested support,-0.7999999999999999,5
+improved_precision,Improved precision,nonconvex_disk,Non-convex disk,1.0,4
+improved_precision,Improved precision,nonconvex_ring,Non-convex ring,1.0,4
+improved_precision,Improved precision,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+improved_recall,Improved recall,uniform_translation,Translation,0.9910312089651149,7
+improved_recall,Improved recall,nested_support,Nested support,0.8999999999999998,5
+improved_recall,Improved recall,nonconvex_disk,Non-convex disk,1.0,4
+improved_recall,Improved recall,nonconvex_ring,Non-convex ring,1.0,4
+improved_recall,Improved recall,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+kid_polynomial_similarity,KID (polynomial),uniform_translation,Translation,1.0,7
+kid_polynomial_similarity,KID (polynomial),nested_support,Nested support,0.8999999999999998,5
+kid_polynomial_similarity,KID (polynomial),nonconvex_disk,Non-convex disk,1.0,4
+kid_polynomial_similarity,KID (polynomial),nonconvex_ring,Non-convex ring,1.0,4
+kid_polynomial_similarity,KID (polynomial),nonconvex_checkerboard,Checkerboard,1.0,4
+local_scaling_affinity,Local-scaling affinity,uniform_translation,Translation,1.0,7
+local_scaling_affinity,Local-scaling affinity,nested_support,Nested support,0.9999999999999999,5
+local_scaling_affinity,Local-scaling affinity,nonconvex_disk,Non-convex disk,1.0,4
+local_scaling_affinity,Local-scaling affinity,nonconvex_ring,Non-convex ring,1.0,4
+local_scaling_affinity,Local-scaling affinity,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+manifold_pr_f1,Manifold precision-recall F1,uniform_translation,Translation,0.9910312089651149,7
+manifold_pr_f1,Manifold precision-recall F1,nested_support,Nested support,0.9999999999999999,5
+manifold_pr_f1,Manifold precision-recall F1,nonconvex_disk,Non-convex disk,1.0,4
+manifold_pr_f1,Manifold precision-recall F1,nonconvex_ring,Non-convex ring,1.0,4
+manifold_pr_f1,Manifold precision-recall F1,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+mmd_rbf_similarity,MMD-RBF,uniform_translation,Translation,1.0,7
+mmd_rbf_similarity,MMD-RBF,nested_support,Nested support,0.9999999999999999,5
+mmd_rbf_similarity,MMD-RBF,nonconvex_disk,Non-convex disk,1.0,4
+mmd_rbf_similarity,MMD-RBF,nonconvex_ring,Non-convex ring,1.0,4
+mmd_rbf_similarity,MMD-RBF,nonconvex_checkerboard,Checkerboard,1.0,4
+modified_hausdorff_similarity,Modified Hausdorff,uniform_translation,Translation,1.0,7
+modified_hausdorff_similarity,Modified Hausdorff,nested_support,Nested support,0.8999999999999998,5
+modified_hausdorff_similarity,Modified Hausdorff,nonconvex_disk,Non-convex disk,1.0,4
+modified_hausdorff_similarity,Modified Hausdorff,nonconvex_ring,Non-convex ring,1.0,4
+modified_hausdorff_similarity,Modified Hausdorff,nonconvex_checkerboard,Checkerboard,1.0,4
+persistence_bottleneck_similarity,Persistence bottleneck,uniform_translation,Translation,-0.39285714285714296,7
+persistence_bottleneck_similarity,Persistence bottleneck,nested_support,Nested support,0.8999999999999998,5
+persistence_bottleneck_similarity,Persistence bottleneck,nonconvex_disk,Non-convex disk,0.39999999999999997,4
+persistence_bottleneck_similarity,Persistence bottleneck,nonconvex_ring,Non-convex ring,0.6000000000000001,4
+persistence_bottleneck_similarity,Persistence bottleneck,nonconvex_checkerboard,Checkerboard,-1.0,4
+point_fscore_global,Point-cloud F-score,uniform_translation,Translation,0.9910312089651149,7
+point_fscore_global,Point-cloud F-score,nested_support,Nested support,0.8999999999999998,5
+point_fscore_global,Point-cloud F-score,nonconvex_disk,Non-convex disk,1.0,4
+point_fscore_global,Point-cloud F-score,nonconvex_ring,Non-convex ring,1.0,4
+point_fscore_global,Point-cloud F-score,nonconvex_checkerboard,Checkerboard,1.0,4
+prc_f1,Precision-Recall Cover F1,uniform_translation,Translation,0.9910312089651149,7
+prc_f1,Precision-Recall Cover F1,nested_support,Nested support,0.9999999999999999,5
+prc_f1,Precision-Recall Cover F1,nonconvex_disk,Non-convex disk,1.0,4
+prc_f1,Precision-Recall Cover F1,nonconvex_ring,Non-convex ring,1.0,4
+prc_f1,Precision-Recall Cover F1,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prc_precision_cover,PRC precision-cover,uniform_translation,Translation,0.9910312089651149,7
+prc_precision_cover,PRC precision-cover,nested_support,Nested support,0.8999999999999998,5
+prc_precision_cover,PRC precision-cover,nonconvex_disk,Non-convex disk,1.0,4
+prc_precision_cover,PRC precision-cover,nonconvex_ring,Non-convex ring,1.0,4
+prc_precision_cover,PRC precision-cover,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prc_recall_cover,PRC recall-cover,uniform_translation,Translation,0.9910312089651149,7
+prc_recall_cover,PRC recall-cover,nested_support,Nested support,0.9999999999999999,5
+prc_recall_cover,PRC recall-cover,nonconvex_disk,Non-convex disk,1.0,4
+prc_recall_cover,PRC recall-cover,nonconvex_ring,Non-convex ring,1.0,4
+prc_recall_cover,PRC recall-cover,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prd_f1_max,PRD F1-max,uniform_translation,Translation,0.9910312089651149,7
+prd_f1_max,PRD F1-max,nested_support,Nested support,0.9999999999999999,5
+prd_f1_max,PRD F1-max,nonconvex_disk,Non-convex disk,1.0,4
+prd_f1_max,PRD F1-max,nonconvex_ring,Non-convex ring,1.0,4
+prd_f1_max,PRD F1-max,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prdc_coverage,PRDC coverage,uniform_translation,Translation,0.9910312089651149,7
+prdc_coverage,PRDC coverage,nested_support,Nested support,0.9999999999999999,5
+prdc_coverage,PRDC coverage,nonconvex_disk,Non-convex disk,1.0,4
+prdc_coverage,PRDC coverage,nonconvex_ring,Non-convex ring,1.0,4
+prdc_coverage,PRDC coverage,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prdc_density,PRDC density,uniform_translation,Translation,0.9910312089651149,7
+prdc_density,PRDC density,nested_support,Nested support,-0.7999999999999999,5
+prdc_density,PRDC density,nonconvex_disk,Non-convex disk,1.0,4
+prdc_density,PRDC density,nonconvex_ring,Non-convex ring,1.0,4
+prdc_density,PRDC density,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prdc_density_sym,PRDC density (sym.),uniform_translation,Translation,0.9910312089651149,7
+prdc_density_sym,PRDC density (sym.),nested_support,Nested support,0.9999999999999999,5
+prdc_density_sym,PRDC density (sym.),nonconvex_disk,Non-convex disk,1.0,4
+prdc_density_sym,PRDC density (sym.),nonconvex_ring,Non-convex ring,1.0,4
+prdc_density_sym,PRDC density (sym.),nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prdc_f1,PRDC F1,uniform_translation,Translation,0.9910312089651149,7
+prdc_f1,PRDC F1,nested_support,Nested support,0.9999999999999999,5
+prdc_f1,PRDC F1,nonconvex_disk,Non-convex disk,1.0,4
+prdc_f1,PRDC F1,nonconvex_ring,Non-convex ring,1.0,4
+prdc_f1,PRDC F1,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prdc_precision,PRDC precision,uniform_translation,Translation,0.9910312089651149,7
+prdc_precision,PRDC precision,nested_support,Nested support,-0.7999999999999999,5
+prdc_precision,PRDC precision,nonconvex_disk,Non-convex disk,1.0,4
+prdc_precision,PRDC precision,nonconvex_ring,Non-convex ring,1.0,4
+prdc_precision,PRDC precision,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+prdc_recall,PRDC recall,uniform_translation,Translation,0.9910312089651149,7
+prdc_recall,PRDC recall,nested_support,Nested support,0.8999999999999998,5
+prdc_recall,PRDC recall,nonconvex_disk,Non-convex disk,1.0,4
+prdc_recall,PRDC recall,nonconvex_ring,Non-convex ring,1.0,4
+prdc_recall,PRDC recall,nonconvex_checkerboard,Checkerboard,0.7999999999999999,4
+sinkhorn_divergence_similarity,Sinkhorn divergence,uniform_translation,Translation,1.0,7
+sinkhorn_divergence_similarity,Sinkhorn divergence,nested_support,Nested support,0.49999999999999994,5
+sinkhorn_divergence_similarity,Sinkhorn divergence,nonconvex_disk,Non-convex disk,1.0,4
+sinkhorn_divergence_similarity,Sinkhorn divergence,nonconvex_ring,Non-convex ring,1.0,4
+sinkhorn_divergence_similarity,Sinkhorn divergence,nonconvex_checkerboard,Checkerboard,1.0,4
+sliced_wasserstein_similarity,Sliced Wasserstein,uniform_translation,Translation,1.0,7
+sliced_wasserstein_similarity,Sliced Wasserstein,nested_support,Nested support,0.8999999999999998,5
+sliced_wasserstein_similarity,Sliced Wasserstein,nonconvex_disk,Non-convex disk,1.0,4
+sliced_wasserstein_similarity,Sliced Wasserstein,nonconvex_ring,Non-convex ring,1.0,4
+sliced_wasserstein_similarity,Sliced Wasserstein,nonconvex_checkerboard,Checkerboard,1.0,4

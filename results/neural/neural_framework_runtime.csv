@@ -1,0 +1,4 @@
+dataset,n_pairs,component_compute_sec,exhaustive_evaluation_sec
+KMNIST_mlp_activation_clouds_external,80,7.492148701101538,3.5397899206727743
+MNIST_mlp_activation_clouds_external,80,7.382201792672273,3.690787668339908
+USPS_mlp_activation_clouds_external,80,7.466805448755619,3.582098925486207

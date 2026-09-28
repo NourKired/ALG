@@ -1,0 +1,17 @@
+{
+  "title": "Adaptive Local-Global Similarity for Comparing Heterogeneous Unordered Embedding Sets",
+  "release_date": "2026-09-28",
+  "alg_configurations": 168960,
+  "training_datasets": 60,
+  "benchmark_test_datasets": 183,
+  "additional_neural_test_datasets": 3,
+  "baselines": 40,
+  "selected_configuration": "algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7",
+  "runtime_pairs": 155393,
+  "raw_third_party_data_included": false,
+  "excluded_large_outputs": [
+    "complete 33 GB working output tree",
+    "controlled all_scores.csv (441 MB)",
+    "raw third-party corpora"
+  ]
+}

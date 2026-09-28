@@ -1,0 +1,7 @@
+variant,metric,mean_f1,median_f1
+Initial ALG - local only,overlap_cosine_sym,0.7452766203813572,0.6886792452830188
+Initial ALG - global only,cosine_pooled,0.7386616644604472,0.6703308886235716
+Initial ALG - local-global,overlap_cosine_plus_pooled_cosine,0.7506772248851672,0.6839587394090831
+ALG* - local only,algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda1.0,0.763675498207363,0.68740034
+ALG* - global only,algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.0,0.7502444127202106,0.6689144
+ALG* - local-global,algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,0.7682189798582361,0.6870861

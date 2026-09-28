@@ -1,0 +1,49 @@
+metric,display_name,role,provenance,include_in_baseline_comparison
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",ALG primary,This work,True
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),ALG primary,This work,True
+cosine_pooled,Pooled cosine,Standard pooled baseline,Standard vector similarity/distance applied to mean-pooled embeddings,True
+neg_euclidean_pooled,Pooled Euclidean,Standard pooled baseline,Standard vector similarity/distance applied to mean-pooled embeddings,True
+overlap_cosine_sym,overlap cosine sym,ALG internal / ablation only,This work,False
+overlap_euclidean_plus_pooled_euclidean,overlap euclidean plus pooled euclidean,ALG internal / ablation only,This work,False
+overlap_f1,overlap f1,ALG internal / ablation only,This work,False
+overlap_sym,overlap sym,ALG internal / ablation only,This work,False
+rank_overlap_f1,rank overlap f1,ALG internal / ablation only,This work,False
+rank_overlap_sym,rank overlap sym,ALG internal / ablation only,This work,False
+alpha_precision_similarity,Alpha precision,Literature baseline,Alaa et al. (2022),True
+authenticity_similarity,Authenticity,Literature baseline,Alaa et al. (2022),True
+best_buddies_similarity,Best Buddies,Literature baseline,Dekel et al. (2015),True
+beta_recall_similarity,Beta recall,Literature baseline,Alaa et al. (2022),True
+c2st_similarity,C2ST,Literature baseline,Lopez-Paz and Oquab (2017),True
+chamfer_similarity,Chamfer,Literature baseline,Fan et al. (2017),True
+clipped_coverage,Clipped coverage,Literature baseline,Naeem et al. (2020),True
+clipped_density,Clipped density,Literature baseline,Clipped Density and Coverage,True
+coverage_sym_k5,"Coverage (sym., k=5)",Literature baseline,Naeem et al. (2020),True
+dcd_similarity,Density-aware Chamfer (DCD),Literature baseline,Wu et al. (2021),True
+emd_wasserstein_similarity,Earth Mover/Wasserstein,Literature baseline,Villani (2009); Cuturi (2013),True
+energy_similarity,Energy distance,Literature baseline,Energy distance / statistics literature,True
+gaussian_frechet_similarity,Gaussian Fréchet,Literature baseline,Heusel et al. (2017),True
+geometry_score_similarity,Geometry score,Literature baseline,Khrulkov and Oseledets (2018),True
+gromov_wasserstein_similarity,Gromov-Wasserstein,Literature baseline,Villani (2009); Cuturi (2013),True
+hausdorff95_similarity,Hausdorff-95,Literature baseline,Hausdorff / modified Hausdorff literature,True
+hausdorff_similarity,Hausdorff,Literature baseline,Hausdorff / modified Hausdorff literature,True
+improved_precision,Improved precision,Literature baseline,Kynkäänniemi et al. (2019),True
+improved_recall,Improved recall,Literature baseline,Kynkäänniemi et al. (2019),True
+kid_polynomial_similarity,KID (polynomial),Literature baseline,Binkowski et al. (2018),True
+local_scaling_affinity,Local-scaling affinity,Literature baseline,Zelnik-Manor and Perona (2004),True
+manifold_pr_f1,Manifold precision-recall F1,Literature baseline,Kynkäänniemi et al. (2019),True
+mmd_rbf_similarity,MMD-RBF,Literature baseline,Gretton et al. (2012),True
+modified_hausdorff_similarity,Modified Hausdorff,Literature baseline,Hausdorff / modified Hausdorff literature,True
+persistence_bottleneck_similarity,Persistence bottleneck,Literature baseline,Persistent-homology bottleneck distance,True
+point_fscore_global,Point-cloud F-score,Literature baseline,Point-cloud F-score literature,True
+prc_f1,Precision-Recall Cover F1,Literature baseline,Cheema and Urner (2023),True
+prc_precision_cover,PRC precision-cover,Literature baseline,Cheema and Urner (2023),True
+prc_recall_cover,PRC recall-cover,Literature baseline,Cheema and Urner (2023),True
+prd_f1_max,PRD F1-max,Literature baseline,Sajjadi et al. (2018),True
+prdc_coverage,PRDC coverage,Literature baseline,Naeem et al. (2020),True
+prdc_density,PRDC density,Literature baseline,Naeem et al. (2020),True
+prdc_density_sym,PRDC density (sym.),Literature baseline,Naeem et al. (2020),True
+prdc_f1,PRDC F1,Literature baseline,Naeem et al. (2020),True
+prdc_precision,PRDC precision,Literature baseline,Naeem et al. (2020),True
+prdc_recall,PRDC recall,Literature baseline,Naeem et al. (2020),True
+sinkhorn_divergence_similarity,Sinkhorn divergence,Literature baseline,Cuturi (2013),True
+sliced_wasserstein_similarity,Sliced Wasserstein,Literature baseline,Villani (2009); Cuturi (2013),True

@@ -1,0 +1,53 @@
+metric,method_type,ms_per_pair,n_timed_pairs,relative_to_selected_alg,display_name
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,ALG_component_estimate,1.3442359548323002,,1.0,"ALG* (development-selected, frozen)"
+ALG_chebyshev_family_330,baseline_measured,3.4197117132161554,155393.0,2.543981732465102,
+ALG_cosine_family_330,baseline_measured,6.58493566695573,155393.0,4.898645690352207,
+ALG_euclidean_family_330,baseline_measured,11.56786899781036,155393.0,8.605534583586932,
+ALG_grid_all_1320,baseline_measured,25.04059594316714,155393.0,18.628125406964788,
+ALG_manhattan_family_330,baseline_measured,3.420364785588653,155393.0,2.544467564115527,
+ALL_metric_suite_total,baseline_measured,1998.0176649919765,155393.0,1486.3593387823337,
+alpha_precision_similarity,baseline_measured,6.185899342390495,155393.0,4.601795778600652,Alpha precision
+authenticity_similarity,baseline_measured,2.705112206182079,155393.0,2.012378999726692,Authenticity
+best_buddies_similarity,baseline_measured,0.23587557487663244,155393.0,0.17547185375357635,Best Buddies
+beta_recall_similarity,baseline_measured,3.1576208509936556,155393.0,2.3490078803818215,Beta recall
+c2st_similarity,baseline_measured,18.68386521030553,155393.0,13.899245250166242,C2ST
+chamfer_similarity,baseline_measured,0.20379364473020473,155393.0,0.15160556001913292,Chamfer
+clipped_coverage,baseline_measured,4.942731094860109,155393.0,3.676981765806687,Clipped coverage
+clipped_density,baseline_measured,1.1822329406089442,155393.0,0.8794832011143708,Clipped density
+cosine_pooled,baseline_measured,0.5009785028920078,155393.0,0.372686432832774,Pooled cosine
+coverage_sym_k5,baseline_measured,17.445154163026096,155393.0,12.977747024481623,"Coverage (sym., k=5)"
+dcd_similarity,baseline_measured,0.23881122929111498,155393.0,0.1776557370249093,Density-aware Chamfer (DCD)
+emd_wasserstein_similarity,baseline_measured,6.489362304699551,155393.0,4.8275470399161655,Earth Mover/Wasserstein
+energy_similarity,baseline_measured,0.4322556745405681,155393.0,0.3215623514507868,Energy distance
+gaussian_frechet_similarity,baseline_measured,137.97930733838592,155393.0,102.64515455220025,Gaussian Fréchet
+geometry_score_similarity,baseline_measured,585.953006041784,155393.0,435.90041163188823,Geometry score
+gromov_wasserstein_similarity,baseline_measured,14.198862863811662,155393.0,10.562775688873042,Gromov-Wasserstein
+hausdorff95_similarity,baseline_measured,0.3884167990324581,155393.0,0.28894986600839356,Hausdorff-95
+hausdorff_similarity,baseline_measured,0.1823617054338382,155393.0,0.1356619756957689,Hausdorff
+improved_precision,baseline_measured,3.2941748594947637,155393.0,2.4505927308764237,Improved precision
+improved_recall,baseline_measured,2.563469747986237,155393.0,1.9070087649203238,Improved recall
+kid_polynomial_similarity,baseline_measured,1.3598298726114009,155393.0,1.0116005807782802,KID (polynomial)
+local_scaling_affinity,baseline_measured,1.8088846267299867,155393.0,1.345660053376309,Local-scaling affinity
+manifold_pr_f1,baseline_measured,5.249124738055115,155393.0,3.90491321050103,Manifold precision-recall F1
+mmd_rbf_similarity,baseline_measured,1.5223762315191045,155393.0,1.13252158302002,MMD-RBF
+modified_hausdorff_similarity,baseline_measured,0.1866274510001905,155393.0,0.1388353364074934,Modified Hausdorff
+neg_euclidean_pooled,baseline_measured,0.3227366745041585,155393.0,0.24008930377436707,Pooled Euclidean
+overlap_cosine_plus_pooled_cosine,baseline_measured,3.3500483605224374,155393.0,2.4921579790211545,Initial ALG (cosine overlap + pooled cosine)
+overlap_cosine_sym,baseline_measured,2.8490698576304294,155393.0,2.1194715461883806,overlap cosine sym
+overlap_euclidean_plus_pooled_euclidean,baseline_measured,34.07105462195828,155393.0,25.346037278261022,overlap euclidean plus pooled euclidean
+overlap_f1,baseline_measured,33.748317947454126,155393.0,25.105947974486657,overlap f1
+overlap_sym,baseline_measured,33.748317947454126,155393.0,25.105947974486657,overlap sym
+persistence_bottleneck_similarity,baseline_measured,387.3560476336025,155393.0,288.1607549932906,Persistence bottleneck
+point_fscore_global,baseline_measured,0.2111038557471558,155393.0,0.15704375038346002,Point-cloud F-score
+prc_f1,baseline_measured,1.712569778559676,155393.0,1.2740097989517973,Precision-Recall Cover F1
+prc_precision_cover,baseline_measured,1.7858150531129535,155393.0,1.3284982050162037,PRC precision-cover
+prc_recall_cover,baseline_measured,1.7229845791414657,155393.0,1.2817575463203676,PRC recall-cover
+prd_f1_max,baseline_measured,205.04707078317293,155393.0,152.53800498793646,PRD F1-max
+prdc_coverage,baseline_measured,1.8300784119511815,155393.0,1.3614264708307795,PRDC coverage
+prdc_density,baseline_measured,1.9506503165594196,155393.0,1.4511219622917857,PRDC density
+prdc_density_sym,baseline_measured,1.8355479638263084,155393.0,1.3654953635392841,PRDC density (sym.)
+prdc_f1,baseline_measured,1.7782649022312351,155393.0,1.3228815193037164,PRDC F1
+prdc_precision,baseline_measured,2.5256806840853554,155393.0,1.8788968372747075,PRDC precision
+prdc_recall,baseline_measured,2.149877167269784,155393.0,1.5993302065320751,PRDC recall
+sinkhorn_divergence_similarity,baseline_measured,507.00572072265464,155393.0,377.17018273470154,Sinkhorn divergence
+sliced_wasserstein_similarity,baseline_measured,1.472513212261767,155393.0,1.0954276345371747,Sliced Wasserstein

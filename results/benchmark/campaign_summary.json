@@ -1,0 +1,12 @@
+{
+  "n_configurations": 168960,
+  "n_development_datasets": 60,
+  "n_test_datasets": 183,
+  "n_total_evaluations_test": 30919680,
+  "selected_global_configuration_index": 67195,
+  "selected_global_metric": "algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7",
+  "selection_rule": "maximum macro F1 across the 60 development datasets",
+  "confirmatory_file": "confirmatory_selected_alg_plus_baselines.csv",
+  "exploratory_warning": "The exhaustive 168,960 x 183 test ranking is exploratory and must not be reported as a frozen confirmatory selection.",
+  "files_preserve_all_per_dataset_metrics": "outputs/alg_framework_results_168960_243/datasets"
+}

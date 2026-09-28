@@ -1,0 +1,133 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{gretton2012mmd}
+A.~Gretton, K.~M. Borgwardt, M.~J. Rasch, B.~Sch{{\"o}}lkopf, A.~Smola,
+  \href{https://www.jmlr.org/papers/v13/gretton12a.html}{A kernel two-sample
+  test}, Journal of Machine Learning Research 13~(25) (2012) 723--773.
+\newline\urlprefix\url{https://www.jmlr.org/papers/v13/gretton12a.html}
+
+\bibitem{cuturi2013sinkhorn}
+M.~Cuturi,
+  \href{https://proceedings.neurips.cc/paper/2013/hash/af21d0c97db2e27e13572cbf59eb343d-Abstract.html}{Sinkhorn
+  distances: Lightspeed computation of optimal transport}, in: Advances in
+  Neural Information Processing Systems, Vol.~26, 2013, pp. 2292--2300.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper/2013/hash/af21d0c97db2e27e13572cbf59eb343d-Abstract.html}
+
+\bibitem{kynkaanniemi2019precision}
+T.~Kynk{{\"a}}{{\"a}}nniemi, T.~Karras, S.~Laine, J.~Lehtinen, T.~Aila,
+  \href{https://proceedings.neurips.cc/paper/2019/hash/0234c510bc6d908b28c70ff313743079-Abstract.html}{Improved
+  precision and recall metric for assessing generative models}, in: Advances in
+  Neural Information Processing Systems, Vol.~32, 2019, pp. 3927--3936.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper/2019/hash/0234c510bc6d908b28c70ff313743079-Abstract.html}
+
+\bibitem{naeem2020reliable}
+M.~F. Naeem, S.~J. Oh, Y.~Uh, Y.~Choi, J.~Yoo,
+  \href{https://proceedings.mlr.press/v119/naeem20a.html}{Reliable fidelity and
+  diversity metrics for generative models}, in: Proceedings of the 37th
+  International Conference on Machine Learning, Vol. 119 of Proceedings of
+  Machine Learning Research, PMLR, 2020, pp. 7176--7185.
+\newline\urlprefix\url{https://proceedings.mlr.press/v119/naeem20a.html}
+
+\bibitem{cheema2023prc}
+F.~Cheema, R.~Urner,
+  \href{https://proceedings.mlr.press/v206/cheema23a.html}{Precision recall
+  cover: A method for assessing generative models}, in: Proceedings of the 26th
+  International Conference on Artificial Intelligence and Statistics, Vol. 206
+  of Proceedings of Machine Learning Research, PMLR, 2023, pp. 6571--6594.
+\newline\urlprefix\url{https://proceedings.mlr.press/v206/cheema23a.html}
+
+\bibitem{khayatkhoei2023asymmetry}
+M.~Khayatkhoei, W.~AbdAlmageed,
+  \href{https://proceedings.mlr.press/v202/khayatkhoei23a.html}{Emergent
+  asymmetry of precision and recall for measuring fidelity and diversity of
+  generative models in high dimensions}, in: Proceedings of the 40th
+  International Conference on Machine Learning, Vol. 202 of Proceedings of
+  Machine Learning Research, PMLR, 2023, pp. 16326--16343.
+\newline\urlprefix\url{https://proceedings.mlr.press/v202/khayatkhoei23a.html}
+
+\bibitem{fan2017pointsets}
+H.~Fan, H.~Su, L.~J. Guibas, A point set generation network for 3d object
+  reconstruction from a single image, in: Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition, 2017, pp. 605--613.
+\newblock \href {https://doi.org/10.1109/CVPR.2017.264}
+  {\path{doi:10.1109/CVPR.2017.264}}.
+
+\bibitem{wu2021dcd}
+T.~Wu, L.~Pan, J.~Zhang, T.~Wang, Z.~Liu, D.~Lin,
+  \href{https://proceedings.neurips.cc/paper/2021/hash/f3bd5ad57c8389a8a1a541a76be463bf-Abstract.html}{Density-aware
+  chamfer distance as a comprehensive metric for point cloud completion}, in:
+  Advances in Neural Information Processing Systems, Vol.~34, 2021, pp.
+  29088--29100.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper/2021/hash/f3bd5ad57c8389a8a1a541a76be463bf-Abstract.html}
+
+\bibitem{sriperumbudur2010embeddings}
+B.~K. Sriperumbudur, A.~Gretton, K.~Fukumizu, B.~Sch{{\"o}}lkopf, G.~R.~G.
+  Lanckriet,
+  \href{https://www.jmlr.org/papers/v11/sriperumbudur10a.html}{Hilbert space
+  embeddings and metrics on probability measures}, Journal of Machine Learning
+  Research 11~(50) (2010) 1517--1561.
+\newline\urlprefix\url{https://www.jmlr.org/papers/v11/sriperumbudur10a.html}
+
+\bibitem{madhavan2001cupid}
+J.~Madhavan, P.~A. Bernstein, E.~Rahm,
+  \href{https://www.vldb.org/conf/2001/P049.pdf}{Generic schema matching with
+  {Cupid}}, in: Proceedings of the 27th International Conference on Very Large
+  Data Bases, 2001, pp. 49--58.
+\newline\urlprefix\url{https://www.vldb.org/conf/2001/P049.pdf}
+
+\bibitem{do2002coma}
+H.-H. Do, E.~Rahm, {COMA}: A system for flexible combination of schema matching
+  approaches, in: Proceedings of the 28th International Conference on Very
+  Large Data Bases, 2002, pp. 610--621.
+\newblock \href {https://doi.org/10.1016/B978-155860869-6/50060-3}
+  {\path{doi:10.1016/B978-155860869-6/50060-3}}.
+
+\bibitem{melnik2002similarity}
+S.~Melnik, H.~Garcia-Molina, E.~Rahm, Similarity flooding: A versatile graph
+  matching algorithm and its application to schema matching, in: Proceedings of
+  the 18th IEEE International Conference on Data Engineering, 2002, pp.
+  117--128.
+\newblock \href {https://doi.org/10.1109/ICDE.2002.994702}
+  {\path{doi:10.1109/ICDE.2002.994702}}.
+
+\bibitem{koutras2021valentine}
+C.~Koutras, G.~Siachamis, A.~Ionescu, K.~Psarakis, J.~Brons, M.~Fragkoulis,
+  C.~Lofi, A.~Bonifati, A.~Katsifodimos, Valentine: Evaluating matching
+  techniques for dataset discovery, in: Proceedings of the 37th IEEE
+  International Conference on Data Engineering, 2021, pp. 468--479.
+\newblock \href {https://doi.org/10.1109/ICDE51399.2021.00047}
+  {\path{doi:10.1109/ICDE51399.2021.00047}}.
+
+\bibitem{du2024isresmat}
+X.~Du, G.~Yuan, S.~Wu, G.~Chen, P.~Lu, In situ neural relational schema
+  matcher, in: Proceedings of the 40th IEEE International Conference on Data
+  Engineering, 2024, pp. 138--150.
+\newblock \href {https://doi.org/10.1109/ICDE60146.2024.00018}
+  {\path{doi:10.1109/ICDE60146.2024.00018}}.
+
+\bibitem{zhang2025smutf}
+Y.~Zhang, M.~Di, H.~Luo, C.~Xu, R.~T.-H. Tsai, {SMUTF}: Schema matching using
+  generative tags and hybrid features, Information Systems 133 (2025) 102570.
+\newblock \href {https://doi.org/10.1016/j.is.2025.102570}
+  {\path{doi:10.1016/j.is.2025.102570}}.
+
+\bibitem{liu2025magneto}
+Y.~Liu, E.~H.~M. Pena, A.~Santos, E.~Wu, J.~Freire, Magneto: Combining small
+  and large language models for schema matching, Proceedings of the VLDB
+  Endowment 18~(8) (2025) 2681--2694.
+\newblock \href {https://doi.org/10.14778/3742728.3742757}
+  {\path{doi:10.14778/3742728.3742757}}.
+
+\bibitem{zelnikmanor2004selftuning}
+L.~Zelnik-Manor, P.~Perona,
+  \href{https://proceedings.neurips.cc/paper/2004/hash/40173ea48d9567f1f393b20c855bb40b-Abstract.html}{Self-tuning
+  spectral clustering}, in: Advances in Neural Information Processing Systems,
+  Vol.~17, 2004, pp. 1601--1608.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper/2004/hash/40173ea48d9567f1f393b20c855bb40b-Abstract.html}
+
+\end{thebibliography}

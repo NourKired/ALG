@@ -1,0 +1,3 @@
+alg_metric,alg_display,baseline,baseline_display,n,alg_mean_f1,baseline_mean_f1,mean_delta_f1,ci_low,ci_high,wins,ties,losses,wilcoxon_p_raw,wilcoxon_p_holm
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,"ALG* (development-selected, frozen)",energy_similarity,Energy distance,186,0.7560324223451717,0.7504057281339194,0.005626694211252252,0.0011712590708940038,0.010240866729943154,117,0,69,0.0018373712617912666,0.003674742523582533
+overlap_cosine_plus_pooled_cosine,Initial ALG (cosine overlap + pooled cosine),energy_similarity,Energy distance,186,0.7506772248851672,0.7504057281339195,0.00027149675124774574,-0.005340413396966382,0.005950742822051692,97,7,82,0.18798462288108664,0.3759692457621733

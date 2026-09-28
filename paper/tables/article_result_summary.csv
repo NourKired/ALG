@@ -1,0 +1,4 @@
+metric,n_datasets,mean_f1,median_f1,n_dataset_wins,n_strict_wins,n_tied_wins,display_name
+algfw_L-local_scaling_manhattan_k3_G-centroid_cosine_exponential_scale2_lambda0.7,186,0.7560324223451717,0.690805196762085,24.142857142857142,22,6,"ALG* (development-selected, frozen)"
+overlap_cosine_plus_pooled_cosine,186,0.7506772248851672,0.6839587394090831,16.333333333333332,16,1,Initial ALG (cosine overlap + pooled cosine)
+energy_similarity,186,0.7504057281339195,0.6870428108669235,8.533333333333333,8,2,Energy distance

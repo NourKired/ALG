@@ -1,0 +1,8 @@
+{
+  "eligibility_metric": "alg_cosine_rational_scale_1_lambda_0.6",
+  "source_aggregate_root": "outputs/alg_full_literature_extended_grid1320_aggregate",
+  "n_development": 60,
+  "n_test": 183,
+  "n_total": 243,
+  "split_seed": 20260811
+}

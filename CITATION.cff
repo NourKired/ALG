@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the accompanying article."
+title: "Adaptive Local-Global Similarity for Comparing Heterogeneous Unordered Embedding Sets"
+type: software
+authors:
+  - family-names: "Kired"
+    given-names: "Nour Elhouda"
+repository-code: "https://github.com/NourKired/Adaptive-Local-Global-Similarity"
+date-released: "2026-09-28"

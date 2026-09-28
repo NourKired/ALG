@@ -1,0 +1,4 @@
+dataset,source_dataset,support,official_training_split_used_for_model_fit,official_test_split_used_for_activation_probe,train_and_probe_disjoint,alg_configuration_selection_used_this_dataset,post_hoc_external_validation,train_samples,probe_samples,architectures,model_seeds,n_models,n_pairs,positive_pairs,negative_pairs,mean_model_test_accuracy,training_seconds,total_seconds
+MNIST_mlp_activation_clouds_external,MNIST,neural_models_external,True,True,True,False,True,5000,1000,"['32', '64', '128', '64x32']",5,20,80,40,40,0.9107,15.908508483320475,774.1830983012915
+KMNIST_mlp_activation_clouds_external,KMNIST,neural_models_external,True,True,True,False,True,5000,1000,"['32', '64', '128', '64x32']",5,20,80,40,40,0.7408500000000001,13.88832975178957,585.1652837954462
+USPS_mlp_activation_clouds_external,USPS,neural_models_external,True,True,True,False,True,5000,1000,"['32', '64', '128', '64x32']",5,20,80,40,40,0.9193500000000002,11.351723250001669,547.3241842035204
