@@ -5,5 +5,5 @@ type: software
 authors:
   - family-names: "Kired"
     given-names: "Nour Elhouda"
-repository-code: "https://github.com/NourKired/Adaptive-Local-Global-Similarity"
+repository-code: "https://github.com/NourKired/ALG"
 date-released: "2026-09-28"

@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alg-similarity"
+version = "0.1.0"
+description = "Adaptive Local--Global similarity for heterogeneous unordered embedding sets"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE-CODE" }
+authors = [
+  { name = "Nour Elhouda Kired" },
+]
+dependencies = [
+  "numpy>=1.23",
+  "pandas>=1.5",
+  "scipy>=1.9",
+  "scikit-learn>=1.2",
+]
+
+[project.optional-dependencies]
+figures = ["matplotlib>=3.7", "jupyterlab>=4", "openpyxl>=3.1"]
+full = [
+  "POT>=0.9",
+  "gudhi>=3.8",
+  "persim>=0.3",
+  "ripser>=0.6",
+  "openml>=0.14",
+  "datasets>=2.18",
+  "sentence-transformers>=2.6",
+  "torchvision>=0.16",
+  "torch-geometric>=2.5",
+]
+dev = ["pytest>=7.4", "ruff>=0.4"]
+
+[project.urls]
+Repository = "https://github.com/NourKired/ALG"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py39"
+line-length = 120
+
