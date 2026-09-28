@@ -1,4 +1,4 @@
-"""Composable Adaptive Local--Global (ALG) similarity framework.
+"""Composable Adaptive Local-Global (ALG) similarity framework.
 
 The framework separates three choices:
 

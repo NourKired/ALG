@@ -1,4 +1,4 @@
-"""Controlled sanity checks for Adaptive Local--Global (ALG) similarity.
+"""Controlled sanity checks for Adaptive Local-Global (ALG) similarity.
 
 The protocol follows the logic of Naeem et al. (2020): generate point-cloud
 pairs where the desired qualitative change is known before evaluating a score.

@@ -1,6 +1,6 @@
-# Adaptive Local--Global Similarity (ALG)
+# Adaptive Local-Global Similarity (ALG)
 
-This is the companion repository for **Adaptive Local--Global Similarity for Comparing Heterogeneous Unordered Embedding Sets**.
+This is the companion repository for **Adaptive Local-Global Similarity for Comparing Heterogeneous Unordered Embedding Sets**.
 
 ALG combines a bounded local agreement and a bounded global agreement,
 

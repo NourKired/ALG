@@ -1,4 +1,4 @@
-"""Adaptive Local--Global Similarity (ALG)."""
+"""Adaptive Local-Global Similarity (ALG)."""
 
 from .alg_framework_grid import (
     ALGFrameworkSpec,
